@@ -1,0 +1,1 @@
+This folder contains the initial protein datasets collected from the UniProt DB in FASTA  format.
